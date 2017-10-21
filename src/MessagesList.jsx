@@ -5,8 +5,8 @@ export default ({users, messages}) => {
   const sortMessages = () => messages.messages.sort((a,b)=>{
     const aTime = new Date(a.timestamp);
     const bTime = new Date(b.timestamp);
-    if(aTime > bTime) return 1;
-    if(aTime < bTime) return -1;
+    if(aTime > bTime) return -1;
+    if(aTime < bTime) return 1;
     return 0;
   });
 

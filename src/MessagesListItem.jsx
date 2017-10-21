@@ -10,10 +10,10 @@ export default ({users, message}) => {
       </div>
       <div className="message">
         {message.message}
-        <span>{moment().format(message.timestamp)}</span>
-      </div>
-      <div className="email">
-        {!user ? 'Loading user...' : <p>{user.email}</p>}
+        <span> On: {moment(new Date(message.timestamp)).format('LLLL')}</span>
+        <span className="email">
+          {!user ? 'Loading user...' : <p>{user.email}</p>}
+        </span>
       </div>
     </li>
   )

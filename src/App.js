@@ -6,10 +6,13 @@ import {getChatLog, getUsers} from './service';
 
 import MessagesList from './MessagesList';
 
+import moment from 'moment';
+
 import './App.css';
 
 class App extends Component {
   componentDidMount(){
+    window.moment = moment
     let { getChatLog, getUsers } = this.props
     getChatLog();
     getUsers();
