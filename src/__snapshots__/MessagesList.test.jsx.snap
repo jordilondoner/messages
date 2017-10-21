@@ -1,0 +1,2206 @@
+exports[`test renders correctly 1`] = `
+<div>
+  <ul>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Amanda\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.
+        <span>
+          2016-02-24T00:01:28+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abakera@craigslist.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Aaron\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Quisque ut erat. Curabitur gravida nisi at nibh.
+        <span>
+          2016-02-26T10:05:17+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          awilliams8@indiegogo.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Henry\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+        <span>
+          2016-03-01T17:58:25+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          hharrisonj@github.io
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Philip\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.
+        <span>
+          2016-03-02T00:10:08+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phowell15@nymag.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.
+        <span>
+          2016-03-04T10:14:19+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Peter\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Cras non velit nec nisi vulputate nonummy.
+        <span>
+          2016-03-08T20:11:54+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phenryt@pen.io
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Jane\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        In congue. Etiam justo. Etiam pretium iaculis justo.
+        <span>
+          2016-03-13T03:21:52+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          jbaileyb@1688.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Annie\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.
+        <span>
+          2016-03-14T09:32:47+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abrowny@flickr.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Pellentesque ultrices mattis odio. Donec vitae nisi.
+        <span>
+          2016-03-15T20:24:57+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Phillip\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nullam molestie nibh in lectus. Pellentesque at nulla.
+        <span>
+          2016-03-17T16:12:13+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          pharperr@who.int
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Lois\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
+        <span>
+          2016-03-17T16:30:19+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          lwheeler7@harvard.edu
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Carl\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.
+        <span>
+          2016-03-19T04:36:05+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          cgreenx@ftc.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.
+        <span>
+          2016-03-19T20:12:15+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Philip\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.
+        <span>
+          2016-03-22T09:52:34+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phowell15@nymag.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Martin\'s avatar"
+          src="http://dummyimage.com/100x100.png/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
+        <span>
+          2016-03-25T23:01:20+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mbradley0@google.it
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Wanda\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.
+        <span>
+          2016-04-02T15:58:08+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          wgonzalezz@va.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Doris\'s avatar"
+          src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.
+        <span>
+          2016-04-06T15:46:58+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dmurphyq@oracle.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Marilyn\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nunc purus.
+        <span>
+          2016-04-07T10:20:42+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mandrews4@google.it
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Marilyn\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Donec ut mauris eget massa tempor convallis.
+        <span>
+          2016-04-14T08:26:37+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mandrews4@google.it
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Jeremy\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.
+        <span>
+          2016-04-14T16:53:55+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          jgomezh@cdc.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
+        <span>
+          2016-04-20T14:33:39+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Melissa\'s avatar"
+          src="http://dummyimage.com/100x100.png/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        <span>
+          2016-05-04T13:55:52+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mmurrayk@wikimedia.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
+        <span>
+          2016-05-09T07:36:46+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          shenryd@va.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nulla ut erat id mauris vulputate elementum. Nullam varius.
+        <span>
+          2016-05-16T03:32:41+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          sshaw1c@naver.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Doris\'s avatar"
+          src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+        <span>
+          2016-05-24T02:09:07+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dmurphyq@oracle.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Phillip\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Pellentesque ultrices mattis odio. Donec vitae nisi.
+        <span>
+          2016-05-24T12:27:48+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          pharperr@who.int
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Kevin\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+        <span>
+          2016-05-27T11:36:55+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          kharveyn@google.nl
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Todd\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.
+        <span>
+          2016-06-02T05:19:55+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          treyesg@dmoz.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Peter\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Suspendisse potenti.
+        <span>
+          2016-06-03T20:24:29+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phoward12@chronoengine.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Peter\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.
+        <span>
+          2016-06-03T21:16:05+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phenryt@pen.io
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Amanda\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Aliquam non mauris. Morbi non lectus.
+        <span>
+          2016-06-05T22:13:40+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abakera@craigslist.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Anna\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.
+        <span>
+          2016-06-07T15:04:32+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          afreeman14@state.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Kevin\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Nam nulla.
+        <span>
+          2016-06-23T02:01:28+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          kharveyn@google.nl
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+        <span>
+          2016-06-26T21:21:05+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Jeremy\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Phasellus in felis. Donec semper sapien a libero.
+        <span>
+          2016-07-12T13:55:27+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          jgomezh@cdc.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Albert\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Donec dapibus. Duis at velit eu est congue elementum.
+        <span>
+          2016-08-01T07:02:23+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          arosec@bbb.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        In eleifend quam a odio.
+        <span>
+          2016-08-07T08:12:44+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          sshaw1c@naver.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Todd\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
+        <span>
+          2016-08-10T14:18:39+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          treyesg@dmoz.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="James\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+        <span>
+          2016-08-11T13:32:45+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          jrogers5@chron.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Melissa\'s avatar"
+          src="http://dummyimage.com/100x100.png/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.
+        <span>
+          2016-08-13T21:44:14+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mmurrayk@wikimedia.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Doris\'s avatar"
+          src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        In blandit ultrices enim.
+        <span>
+          2016-08-18T14:46:45+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dmurphyq@oracle.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Anna\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
+        <span>
+          2016-08-19T02:51:39+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          afreeman14@state.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Kevin\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Nulla tellus.
+        <span>
+          2016-08-19T07:05:14+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          kharveyn@google.nl
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Melissa\'s avatar"
+          src="http://dummyimage.com/100x100.png/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.
+        <span>
+          2016-08-19T08:43:19+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mmurrayk@wikimedia.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Ralph\'s avatar"
+          src="http://dummyimage.com/100x100.png/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.
+        <span>
+          2016-08-21T02:55:32+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          rnguyen6@odnoklassniki.ru
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
+        <span>
+          2016-08-28T09:33:56+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          sshaw1c@naver.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Albert\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nullam varius. Nulla facilisi.
+        <span>
+          2016-08-30T11:09:51+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          arosec@bbb.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Doris\'s avatar"
+          src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+        <span>
+          2016-09-02T06:14:24+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dmurphyq@oracle.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Aaron\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
+        <span>
+          2016-09-05T04:34:29+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          awilliams8@indiegogo.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Carl\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Proin at turpis a pede posuere nonummy. Integer non velit.
+        <span>
+          2016-09-05T17:23:02+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          cgreenx@ftc.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Denise\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.
+        <span>
+          2016-09-06T01:09:23+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dfowlerf@stanford.edu
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.
+        <span>
+          2016-09-06T14:55:22+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          sshaw1c@naver.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="James\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Cras non velit nec nisi vulputate nonummy.
+        <span>
+          2016-09-08T07:48:36+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          jrogers5@chron.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Betty\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nunc rhoncus dui vel sem.
+        <span>
+          2016-09-09T05:04:05+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bhill11@java.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Phillip\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+        <span>
+          2016-09-11T21:18:00+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          pharperr@who.int
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Henry\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Vestibulum rutrum rutrum neque.
+        <span>
+          2016-09-13T15:19:07+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          hharrisonj@github.io
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
+        <span>
+          2016-09-15T09:28:18+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          shenryd@va.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
+        <span>
+          2016-09-16T07:50:43+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.
+        <span>
+          2016-09-16T12:54:29+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Anna\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+        <span>
+          2016-09-18T22:22:26+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          afreeman14@state.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Annie\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
+        <span>
+          2016-09-22T17:47:21+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abrowny@flickr.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Todd\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.
+        <span>
+          2016-09-27T16:08:30+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          treyesg@dmoz.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Annie\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.
+        <span>
+          2016-09-30T12:23:23+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abrowny@flickr.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Marilyn\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+        <span>
+          2016-10-03T20:15:39+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mandrews4@google.it
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Helen\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.
+        <span>
+          2016-10-04T05:22:32+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          hhawkins1@posterous.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Phillip\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Phasellus in felis. Donec semper sapien a libero. Nam dui.
+        <span>
+          2016-10-11T09:52:23+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          pharperr@who.int
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Philip\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
+        <span>
+          2016-10-16T18:18:26+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phowell15@nymag.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Todd\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+        <span>
+          2016-10-19T01:00:26+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          treyesg@dmoz.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Robin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.
+        <span>
+          2016-10-22T23:05:44+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          rknighte@kickstarter.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Sara\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        <span>
+          2016-10-23T21:55:50+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          shenryd@va.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Larry\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Aliquam non mauris.
+        <span>
+          2016-10-28T03:13:47+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          lowensm@earthlink.net
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Phillip\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nunc purus.
+        <span>
+          2016-10-28T03:26:37+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          pharperr@who.int
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Robin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.
+        <span>
+          2016-10-30T02:59:55+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          rknighte@kickstarter.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Kevin\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Integer non velit.
+        <span>
+          2016-11-01T06:32:32+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          kharveyn@google.nl
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Henry\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.
+        <span>
+          2016-11-02T00:09:49+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          hharrisonj@github.io
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Anna\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.
+        <span>
+          2016-11-04T02:59:32+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          afreeman14@state.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Larry\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.
+        <span>
+          2016-11-09T05:04:58+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          lowensm@earthlink.net
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Joan\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Aenean lectus.
+        <span>
+          2016-11-12T02:55:37+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          jpayne3@youtube.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Steven\'s avatar"
+          src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        In eleifend quam a odio. In hac habitasse platea dictumst.
+        <span>
+          2016-11-14T16:51:22+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          shenry19@desdev.cn
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Henry\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Maecenas rhoncus aliquam lacus.
+        <span>
+          2016-11-14T21:41:53+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          hharrisonj@github.io
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Annie\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Pellentesque at nulla.
+        <span>
+          2016-11-16T12:53:15+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abrowny@flickr.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Todd\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+        <span>
+          2016-11-23T11:45:08+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          treyesg@dmoz.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Doris\'s avatar"
+          src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
+      </div>
+      <div
+        className="message">
+        Proin eu mi. Nulla ac enim.
+        <span>
+          2016-11-24T15:49:20+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dmurphyq@oracle.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Annie\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        In congue. Etiam justo.
+        <span>
+          2016-11-24T21:53:05+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abrowny@flickr.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Betty\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.
+        <span>
+          2016-12-06T05:07:46+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bhill11@java.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Aaron\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.
+        <span>
+          2016-12-06T07:24:24+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          awilliams8@indiegogo.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Aaron\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+        <span>
+          2016-12-07T05:02:09+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          awilliams8@indiegogo.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Annie\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
+        <span>
+          2016-12-15T11:29:31+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abrowny@flickr.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Robin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
+        <span>
+          2016-12-17T13:52:25+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          rknighte@kickstarter.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Todd\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Donec dapibus. Duis at velit eu est congue elementum.
+        <span>
+          2016-12-18T00:43:13+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          treyesg@dmoz.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Wanda\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.
+        <span>
+          2016-12-23T03:27:11+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          wgonzalezz@va.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Kevin\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
+      </div>
+      <div
+        className="message">
+        Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
+        <span>
+          2017-01-03T04:08:58+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          kharveyn@google.nl
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Benjamin\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
+        <span>
+          2017-01-12T17:45:34+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          bpierce17@homestead.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Denise\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Morbi porttitor lorem id ligula.
+        <span>
+          2017-01-15T07:26:50+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          dfowlerf@stanford.edu
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Martin\'s avatar"
+          src="http://dummyimage.com/100x100.png/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Cras in purus eu magna vulputate luctus.
+        <span>
+          2017-01-26T07:53:12+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          mbradley0@google.it
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Phillip\'s avatar"
+          src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        In hac habitasse platea dictumst.
+        <span>
+          2017-02-01T10:41:04+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          pharperr@who.int
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Peter\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
+        <span>
+          2017-02-01T18:52:10+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          phoward12@chronoengine.com
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Albert\'s avatar"
+          src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+      </div>
+      <div
+        className="message">
+        Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
+        <span>
+          2017-02-09T04:27:38+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          arosec@bbb.org
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Wanda\'s avatar"
+          src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
+      </div>
+      <div
+        className="message">
+        Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
+        <span>
+          2017-02-11T01:06:40+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          wgonzalezz@va.gov
+        </p>
+      </div>
+    </li>
+    <li
+      className="message-item">
+      <div
+        className="avatar">
+        <img
+          alt="Amanda\'s avatar"
+          src={null} />
+      </div>
+      <div
+        className="message">
+        Mauris lacinia sapien quis libero.
+        <span>
+          2017-02-27T13:47:25+01:00
+        </span>
+      </div>
+      <div
+        className="email">
+        <p>
+          abakera@craigslist.org
+        </p>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

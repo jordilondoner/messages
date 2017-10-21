@@ -1,0 +1,24 @@
+exports[`test renders correctly 1`] = `
+<li
+  className="message-item">
+  <div
+    className="avatar">
+    <img
+      alt="Albert\'s avatar"
+      src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
+  </div>
+  <div
+    className="message">
+    Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
+    <span>
+      2017-02-09T04:27:38+01:00
+    </span>
+  </div>
+  <div
+    className="email">
+    <p>
+      arosec@bbb.org
+    </p>
+  </div>
+</li>
+`;
