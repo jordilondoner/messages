@@ -1,16 +1,12 @@
 import React from 'react';
+import MessagesListItem from './MessagesListItem';
 
 export default ({users, messages}) => {
-  console.log(users, messages);
   const getUserList = ()=>{
     if(messages.isPending) return (<p>Loding Messages ...</p>)
     return (
       <ul>
-        {
-          messages.messages.map((i, idx)=>{
-            return <li key={idx}>{i.message}</li>
-          })
-        }
+        <MessagesListItem messages={messages.messages} users={users}/>
       </ul>
     )
   }
