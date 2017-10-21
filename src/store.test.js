@@ -1,4 +1,4 @@
-import { reducer } from './store';
+import { messagesReducer, usersReducer } from './store';
 
 it('should set messages in the store', () => {
   const messages = [{
@@ -8,7 +8,22 @@ it('should set messages in the store', () => {
     timestamp: '2017-02-09T04:27:38Z'
   }]
 
-  const updatedStore = reducer({}, { type: 'MESSAGES_LOADING_FULFILLED', payload: messages });
+  const updatedStore = messagesReducer({}, { type: 'MESSAGES_LOADING_FULFILLED', payload: messages });
 
   expect(updatedStore.messages).toEqual(messages);
+});
+
+it('should set users in the store', () => {
+  const users = [  {
+      "id": "e837c9f5-247f-445f-bcc3-7d434348336b",
+      "firstName": "Martin",
+      "lastName": "Bradley",
+      "email": "mbradley0@google.it",
+      "avatar": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+      "ip": "166.124.172.160"
+    }]
+
+  const updatedStore = usersReducer({}, { type: 'USERS_LOADING_FULFILLED', payload: users });
+
+  expect(updatedStore.users).toEqual(users);
 });
