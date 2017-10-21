@@ -6,7 +6,7 @@ export default ({users, message}) => {
   return (
     <li className="message-item">
       <div className="avatar">
-        {!user ? 'Loading user...' : <img alt={`${user.firstName}'s avatar`} src={user.avatar}/>}
+        {!user ? 'Loading user...' : <img alt={`${user.firstName} ${user.lastName}'s avatar`} src={user.avatar}/>}
       </div>
       <div className="message">
         {message.message}

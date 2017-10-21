@@ -6,7 +6,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Amanda\'s avatar"
+          alt="Amanda Baker\'s avatar"
           src={null} />
       </div>
       <div
@@ -29,7 +29,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Wanda\'s avatar"
+          alt="Wanda Gonzalez\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -52,7 +52,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Albert\'s avatar"
+          alt="Albert Rose\'s avatar"
           src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
       </div>
       <div
@@ -75,7 +75,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Peter\'s avatar"
+          alt="Peter Howard\'s avatar"
           src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
       </div>
       <div
@@ -98,7 +98,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Phillip\'s avatar"
+          alt="Phillip Harper\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -121,7 +121,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Martin\'s avatar"
+          alt="Martin Bradley\'s avatar"
           src="http://dummyimage.com/100x100.png/5fa2dd/ffffff" />
       </div>
       <div
@@ -144,7 +144,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Denise\'s avatar"
+          alt="Denise Fowler\'s avatar"
           src={null} />
       </div>
       <div
@@ -167,7 +167,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -190,7 +190,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Kevin\'s avatar"
+          alt="Kevin Harvey\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -213,7 +213,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Wanda\'s avatar"
+          alt="Wanda Gonzalez\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -236,7 +236,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Todd\'s avatar"
+          alt="Todd Reyes\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -259,7 +259,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Robin\'s avatar"
+          alt="Robin Knight\'s avatar"
           src={null} />
       </div>
       <div
@@ -282,7 +282,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Annie\'s avatar"
+          alt="Annie Brown\'s avatar"
           src={null} />
       </div>
       <div
@@ -305,7 +305,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Aaron\'s avatar"
+          alt="Aaron Williams\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -328,7 +328,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Aaron\'s avatar"
+          alt="Aaron Williams\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -351,7 +351,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Betty\'s avatar"
+          alt="Betty Hill\'s avatar"
           src={null} />
       </div>
       <div
@@ -374,7 +374,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Annie\'s avatar"
+          alt="Annie Brown\'s avatar"
           src={null} />
       </div>
       <div
@@ -397,7 +397,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Doris\'s avatar"
+          alt="Doris Murphy\'s avatar"
           src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
       </div>
       <div
@@ -420,7 +420,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Todd\'s avatar"
+          alt="Todd Reyes\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -443,7 +443,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Annie\'s avatar"
+          alt="Annie Brown\'s avatar"
           src={null} />
       </div>
       <div
@@ -466,7 +466,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Henry\'s avatar"
+          alt="Henry Harrison\'s avatar"
           src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
       </div>
       <div
@@ -489,7 +489,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Steven\'s avatar"
+          alt="Steven Henry\'s avatar"
           src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
       </div>
       <div
@@ -512,7 +512,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Joan\'s avatar"
+          alt="Joan Payne\'s avatar"
           src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
       </div>
       <div
@@ -535,7 +535,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Larry\'s avatar"
+          alt="Larry Owens\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -558,7 +558,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Anna\'s avatar"
+          alt="Anna Freeman\'s avatar"
           src={null} />
       </div>
       <div
@@ -581,7 +581,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Henry\'s avatar"
+          alt="Henry Harrison\'s avatar"
           src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
       </div>
       <div
@@ -604,7 +604,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Kevin\'s avatar"
+          alt="Kevin Harvey\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -627,7 +627,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Robin\'s avatar"
+          alt="Robin Knight\'s avatar"
           src={null} />
       </div>
       <div
@@ -650,7 +650,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Phillip\'s avatar"
+          alt="Phillip Harper\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -673,7 +673,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Larry\'s avatar"
+          alt="Larry Owens\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -696,7 +696,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Henry\'s avatar"
           src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
       </div>
       <div
@@ -719,7 +719,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Robin\'s avatar"
+          alt="Robin Knight\'s avatar"
           src={null} />
       </div>
       <div
@@ -742,7 +742,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Todd\'s avatar"
+          alt="Todd Reyes\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -765,7 +765,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Philip\'s avatar"
+          alt="Philip Howell\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -788,7 +788,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Phillip\'s avatar"
+          alt="Phillip Harper\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -811,7 +811,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Helen\'s avatar"
+          alt="Helen Hawkins\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -834,7 +834,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Marilyn\'s avatar"
+          alt="Marilyn Andrews\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -857,7 +857,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Annie\'s avatar"
+          alt="Annie Brown\'s avatar"
           src={null} />
       </div>
       <div
@@ -880,7 +880,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Todd\'s avatar"
+          alt="Todd Reyes\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -903,7 +903,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Annie\'s avatar"
+          alt="Annie Brown\'s avatar"
           src={null} />
       </div>
       <div
@@ -926,7 +926,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Anna\'s avatar"
+          alt="Anna Freeman\'s avatar"
           src={null} />
       </div>
       <div
@@ -949,7 +949,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -972,7 +972,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -995,7 +995,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Henry\'s avatar"
           src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
       </div>
       <div
@@ -1018,7 +1018,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Henry\'s avatar"
+          alt="Henry Harrison\'s avatar"
           src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
       </div>
       <div
@@ -1041,7 +1041,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Phillip\'s avatar"
+          alt="Phillip Harper\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -1064,7 +1064,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Betty\'s avatar"
+          alt="Betty Hill\'s avatar"
           src={null} />
       </div>
       <div
@@ -1087,7 +1087,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="James\'s avatar"
+          alt="James Rogers\'s avatar"
           src="http://dummyimage.com/100x100.jpg/cc0000/ffffff" />
       </div>
       <div
@@ -1110,7 +1110,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Shaw\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -1133,7 +1133,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Denise\'s avatar"
+          alt="Denise Fowler\'s avatar"
           src={null} />
       </div>
       <div
@@ -1156,7 +1156,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Carl\'s avatar"
+          alt="Carl Green\'s avatar"
           src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
       </div>
       <div
@@ -1179,7 +1179,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Aaron\'s avatar"
+          alt="Aaron Williams\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1202,7 +1202,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Doris\'s avatar"
+          alt="Doris Murphy\'s avatar"
           src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
       </div>
       <div
@@ -1225,7 +1225,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Albert\'s avatar"
+          alt="Albert Rose\'s avatar"
           src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
       </div>
       <div
@@ -1248,7 +1248,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Shaw\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -1271,7 +1271,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Ralph\'s avatar"
+          alt="Ralph Nguyen\'s avatar"
           src="http://dummyimage.com/100x100.png/dddddd/000000" />
       </div>
       <div
@@ -1294,7 +1294,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Melissa\'s avatar"
+          alt="Melissa Murray\'s avatar"
           src="http://dummyimage.com/100x100.png/dddddd/000000" />
       </div>
       <div
@@ -1317,7 +1317,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Kevin\'s avatar"
+          alt="Kevin Harvey\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1340,7 +1340,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Anna\'s avatar"
+          alt="Anna Freeman\'s avatar"
           src={null} />
       </div>
       <div
@@ -1363,7 +1363,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Doris\'s avatar"
+          alt="Doris Murphy\'s avatar"
           src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
       </div>
       <div
@@ -1386,7 +1386,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Melissa\'s avatar"
+          alt="Melissa Murray\'s avatar"
           src="http://dummyimage.com/100x100.png/dddddd/000000" />
       </div>
       <div
@@ -1409,7 +1409,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="James\'s avatar"
+          alt="James Rogers\'s avatar"
           src="http://dummyimage.com/100x100.jpg/cc0000/ffffff" />
       </div>
       <div
@@ -1432,7 +1432,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Todd\'s avatar"
+          alt="Todd Reyes\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1455,7 +1455,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Shaw\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -1478,7 +1478,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Albert\'s avatar"
+          alt="Albert Rose\'s avatar"
           src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
       </div>
       <div
@@ -1501,7 +1501,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Jeremy\'s avatar"
+          alt="Jeremy Gomez\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1524,7 +1524,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -1547,7 +1547,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Kevin\'s avatar"
+          alt="Kevin Harvey\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1570,7 +1570,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Anna\'s avatar"
+          alt="Anna Freeman\'s avatar"
           src={null} />
       </div>
       <div
@@ -1593,7 +1593,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Amanda\'s avatar"
+          alt="Amanda Baker\'s avatar"
           src={null} />
       </div>
       <div
@@ -1616,7 +1616,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Peter\'s avatar"
+          alt="Peter Henry\'s avatar"
           src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
       </div>
       <div
@@ -1639,7 +1639,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Peter\'s avatar"
+          alt="Peter Howard\'s avatar"
           src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
       </div>
       <div
@@ -1662,7 +1662,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Todd\'s avatar"
+          alt="Todd Reyes\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1685,7 +1685,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Kevin\'s avatar"
+          alt="Kevin Harvey\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1708,7 +1708,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Phillip\'s avatar"
+          alt="Phillip Harper\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -1731,7 +1731,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Doris\'s avatar"
+          alt="Doris Murphy\'s avatar"
           src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
       </div>
       <div
@@ -1754,7 +1754,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Shaw\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -1777,7 +1777,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Sara\'s avatar"
+          alt="Sara Henry\'s avatar"
           src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
       </div>
       <div
@@ -1800,7 +1800,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Melissa\'s avatar"
+          alt="Melissa Murray\'s avatar"
           src="http://dummyimage.com/100x100.png/dddddd/000000" />
       </div>
       <div
@@ -1823,7 +1823,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -1846,7 +1846,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Jeremy\'s avatar"
+          alt="Jeremy Gomez\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -1869,7 +1869,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Marilyn\'s avatar"
+          alt="Marilyn Andrews\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -1892,7 +1892,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Marilyn\'s avatar"
+          alt="Marilyn Andrews\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -1915,7 +1915,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Doris\'s avatar"
+          alt="Doris Murphy\'s avatar"
           src="http://dummyimage.com/100x100.png/cc0000/ffffff" />
       </div>
       <div
@@ -1938,7 +1938,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Wanda\'s avatar"
+          alt="Wanda Gonzalez\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -1961,7 +1961,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Martin\'s avatar"
+          alt="Martin Bradley\'s avatar"
           src="http://dummyimage.com/100x100.png/5fa2dd/ffffff" />
       </div>
       <div
@@ -1984,7 +1984,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Philip\'s avatar"
+          alt="Philip Howell\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -2007,7 +2007,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -2030,7 +2030,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Carl\'s avatar"
+          alt="Carl Green\'s avatar"
           src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
       </div>
       <div
@@ -2053,7 +2053,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Lois\'s avatar"
+          alt="Lois Wheeler\'s avatar"
           src={null} />
       </div>
       <div
@@ -2076,7 +2076,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Phillip\'s avatar"
+          alt="Phillip Harper\'s avatar"
           src="http://dummyimage.com/100x100.bmp/5fa2dd/ffffff" />
       </div>
       <div
@@ -2099,7 +2099,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -2122,7 +2122,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Annie\'s avatar"
+          alt="Annie Brown\'s avatar"
           src={null} />
       </div>
       <div
@@ -2145,7 +2145,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Jane\'s avatar"
+          alt="Jane Bailey\'s avatar"
           src={null} />
       </div>
       <div
@@ -2168,7 +2168,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Peter\'s avatar"
+          alt="Peter Henry\'s avatar"
           src="http://dummyimage.com/100x100.bmp/ff4444/ffffff" />
       </div>
       <div
@@ -2191,7 +2191,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Benjamin\'s avatar"
+          alt="Benjamin Pierce\'s avatar"
           src={null} />
       </div>
       <div
@@ -2214,7 +2214,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Philip\'s avatar"
+          alt="Philip Howell\'s avatar"
           src="http://dummyimage.com/100x100.png/ff4444/ffffff" />
       </div>
       <div
@@ -2237,7 +2237,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Henry\'s avatar"
+          alt="Henry Harrison\'s avatar"
           src="http://dummyimage.com/100x100.bmp/cc0000/ffffff" />
       </div>
       <div
@@ -2260,7 +2260,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Aaron\'s avatar"
+          alt="Aaron Williams\'s avatar"
           src="http://dummyimage.com/100x100.jpg/dddddd/000000" />
       </div>
       <div
@@ -2283,7 +2283,7 @@ exports[`test renders correctly 1`] = `
       <div
         className="avatar">
         <img
-          alt="Amanda\'s avatar"
+          alt="Amanda Baker\'s avatar"
           src={null} />
       </div>
       <div

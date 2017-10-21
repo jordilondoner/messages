@@ -4,7 +4,7 @@ exports[`test renders correctly 1`] = `
   <div
     className="avatar">
     <img
-      alt="Albert\'s avatar"
+      alt="Albert Rose\'s avatar"
       src="http://dummyimage.com/100x100.jpg/5fa2dd/ffffff" />
   </div>
   <div
